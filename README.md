@@ -11,8 +11,8 @@ Mi interés central radica en el diseño de esquemas estructurales que optimicen
 ### Aprendizaje Continuo
 Actualmente estoy expandiendo mis capacidades en el desarrollo de aplicaciones de escritorio y web modernas, profundizando en **Electron** y **React**.
 
-### Comunidad y Contacto
-He creado y coordino el servidor de Discord de mi facultad para brindar apoyo a otros estudiantes en su camino de aprendizaje. Puedes sumarte para consultas o colaboración técnica a través del siguiente enlace:
+### Comunidad
+Coordino el servidor de Discord de mi facultad para brindar apoyo a otros estudiantes en su camino de aprendizaje. Puedes sumarte para consultas o colaboración técnica a través del siguiente enlace:
 
 [Invitación al Discord](https://discord.gg/7thPwpdx4R)
 
